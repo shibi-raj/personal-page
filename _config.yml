@@ -39,7 +39,9 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 # urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-urlimg: 'https://github.com/shibi-raj/portfolio/images/'
+# urlimg: 'https://github.com/shibi-raj/portfolio/images/'
+urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+
 
 # Logo size is 600x80 pixels
 logo: "logo_shibi_2.png"
