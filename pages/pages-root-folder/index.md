@@ -4,10 +4,10 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-#header_unsplash_12.jpg
+#
 layout: frontpage
 header:
-  image_fullwidth: masthead-no-image-header 
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Portfolio"
   url: 'https://shibi-raj.github.io/'
