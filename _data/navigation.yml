@@ -10,6 +10,11 @@
   url: "/design/portfolio/resume/"
   side: left
 
+- title: Repos
+  url: "https://github.com/shibi-raj/"
+  side: left
+
+
 # - title: "Templates"
 #   url: "/design/"
 #   side: left
