@@ -18,50 +18,43 @@ constituents by smashing particles together (such as pairs or protons, the build
 produce a tremendous amount of data because the collisions produce many different
 particles, and this gets very messy.  This data is processed and slimmed down quite a bit based on careful selection criteria, so that in the end there is a manageable, though still sizeable amount of data to be processed.
 
-<!-- ![something](widget-github-303x182.jpg) -->
-
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}figure__atom.png" alt="">
     </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}figure__collision.png" alt="">
+    </div><!-- /.medium-4.columns -->
+
 </div>
 
-<!-- \begin{figure}[htbp]
-\centering
-\includegraphics[scale=.25]{figure__atom}
-\hspace{18pt}
-\includegraphics[scale=.5]{figure__collision}
-\end{figure}
- -->
 High-energy theorists often hypothesize the existence of new, previously unknown 
 particles that may be created in the collisions.  Instead of real data, they will
-simulate the various production processes via Monte Carlo simulations.  By understanding the ``normal'' processes, a collision ``background'' can be simulated.  And, with a new theory, the ``signal'' for a new  particle can be simulated as well.  If the signal is different enough from the background, that is, if a small signal can be seen above a background by using the right type and the right amount of data, a new particle may be discovered!
+simulate the various production processes via Monte Carlo simulations.  By understanding the "normal" processes, a collision "background" can be simulated.  And, with a new theory, the "signal" for a new  particle can be simulated as well.  If the signal is different enough from the background, that is, if a small signal can be seen above a background by using the right type and the right amount of data, a new particle may be discovered!
 
 
 
-\subsubsection{Exploratory Data Analysis}
+##### Exploratory Data Analysis
 
 Analysis requires exploratory data analysis of possibly 100s of parameters in
 a model.  The parameters of large models are constained in the two
 following ways.
-\begin{itemize}
-    \item Constraints from physical laws and observations.  For example,
-    from special relativity, we know particles should not travel faster 
+  * Constraints from physical laws and observations.  For example,from special relativity, we know particles should not travel faster 
     than the speed of light, \ie, tachyonic particles.  Should the model have any regions of the parameter space that predict such particles, those regions must be excluded.
 
-    \item Models parameter spaces may also be simplified by 
+  * Models parameter spaces may also be simplified by 
     theoretically motivated restrictions, \eg, relating two parameters 
     by a yet unrealized physical mechanism reduce two parameters to
     just one.  String theory models, for example, are badly in need of
     constraints like these, as there is not enough data to begin to 
     constrain the models.
-\end{itemize}
 
 There either has to be enough observations to constraing the 
 parameter space, or the models have simplifying assumptions to reduce the 
 effective parameter space.
 
-\subsubsection{Cascade Decay Patterns}
+##### Cascade Decay Patterns
 
 Usually, once heavy particles are produced in a collision, they travel away from
 the collision site for some time and then decay into lighter 
@@ -74,9 +67,9 @@ in huge messy collision.  For example, if there are more electrons being
 produced than expected, then it could be a sign that an exotic heavy parent
 particle was created, even though the parent was never detected directly.
 This information that allows to infer the production of a heavy 
-particle is called a ``signature.''\\
+particle is called a "signature."\\
 
-\subsubsection{Predictions}
+##### Predictions
 
 Once the signatures have been determined (not a simple task), computerized 
 simulations of experiments are valuable tools for determining the prospect
