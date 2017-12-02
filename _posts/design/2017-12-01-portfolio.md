@@ -18,7 +18,7 @@ constituents by smashing particles together (such as pairs or protons, the build
 produce a tremendous amount of data because the collisions produce many different
 particles, and this gets very messy.  This data is processed and slimmed down quite a bit based on careful selection criteria, so that in the end there is a manageable, though still sizeable amount of data to be processed.
 
-![Insert image](images/new.jpg)
+![Insert image](new.jpg)
 <!-- \begin{figure}[htbp]
 \centering
 \includegraphics[scale=.25]{figure__atom}
