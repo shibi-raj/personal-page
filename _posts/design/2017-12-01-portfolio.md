@@ -24,15 +24,6 @@ particles, and this gets very messy.  This data is processed and slimmed down qu
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}figure__atom.png" alt="">
     </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
 </div>
 
 <!-- \begin{figure}[htbp]
