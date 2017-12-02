@@ -22,7 +22,7 @@ particles, and this gets very messy.  This data is processed and slimmed down qu
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}new.jpg" alt="">
+    <img src="{{ site.urlimg }}figure__atom.png" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
