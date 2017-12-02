@@ -10,18 +10,20 @@ layout: frontpage
 header:
   image_fullwidth: 
 widget1:
-  title: "Portfolio"
-  url: 'https://shibi-raj.github.io/'
+  title: "About me"
+  url: 'http://localhost:4000/portfolio/design/portfolio/'
   <!-- image: tree/gh-pages/images/new.jpg -->
   <!-- image: widget-1-302x182.jpg  -->
-  text: "See my past works what I've been up to lately."
+  text: "Passionate about data science.  Former physicist, but physics is still
+  very much close to my heart.  Physics has been a guiding light and has given
+  me the foundation for my critical thinking toolset."
 
 widget2:
 
 widget3:
-  title: "Why use this theme?"
-  url: 'https://shibi-raj.github.io/' 
-  text: 'I really do not want a video here.'
+  title: "Résumé"
+  url: 'https://shibi-raj.github.io/portfolio/design/portfolio/' 
+  text: 'Check out my résumé.'
   video: ''
 
 # widget3:
