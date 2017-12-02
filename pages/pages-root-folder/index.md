@@ -5,20 +5,24 @@
 # this work, you have to use › layout: frontpage
 #
 #
+# header_unsplash_12.jpg
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: 
 widget1:
   title: "Portfolio"
   url: 'https://shibi-raj.github.io/'
   <!-- image: tree/gh-pages/images/new.jpg -->
-  image: widget-1-302x182.jpg 
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  <!-- image: widget-1-302x182.jpg  -->
+  text: "See my past works what I've been up to lately."
+
 widget2:
+
+widget3:
   title: "Why use this theme?"
   url: 'https://shibi-raj.github.io/' 
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  text: 'I really do not want a video here.'
+  video: ''
 
 # widget3:
 #  title: ""
@@ -38,12 +42,12 @@ widget2:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
+<!-- callforaction:
   url: https://tinyletter.com/feeling-responsive
   text: Inform me about new updates and features ›
   style: alert
 permalink: /index.html
-#
+# -->
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
