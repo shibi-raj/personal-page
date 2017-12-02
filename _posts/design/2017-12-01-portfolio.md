@@ -16,7 +16,7 @@ Data analysis is an important part of doing science in high energy particle phys
 This field of physics studies the makeup of atoms and interactions of their
 constituents by smashing particles together (such as pairs or protons, the building blocks of atoms) in a particle collider. Particle colliders are among the most complex machines humans have ever built, and they
 produce a tremendous amount of data because the collisions produce many different
-particles, and this gets very messy.  This data is processed and slimmed down quite a bit based on careful selection criteria, so that in the end there is a manageable, though still sizeable amount of data to be processed.
+particles, and this gets very messy!  This data is processed and slimmed down quite a bit based on careful selection criteria, so that in the end there is a manageable, though still sizeable, amount of data to be processed.
 
 <div class="row">
     <div class="medium-4 columns t30">
@@ -41,16 +41,16 @@ Analysis requires exploratory data analysis of possibly 100s of parameters in
 a model.  The parameters of large models are constained in the two
 following ways.
   * Constraints from physical laws and observations.  For example,from special relativity, we know particles should not travel faster 
-    than the speed of light, \ie, tachyonic particles.  Should the model have any regions of the parameter space that predict such particles, those regions must be excluded.
+    than the speed of light, *i.e.*, tachyonic particles.  Should the model have any regions of the parameter space that predict such particles, those regions must be excluded.
 
   * Models parameter spaces may also be simplified by 
-    theoretically motivated restrictions, \eg, relating two parameters 
-    by a yet unrealized physical mechanism reduce two parameters to
-    just one.  String theory models, for example, are badly in need of
+    theoretically motivated restrictions, *e.g.*, relating two parameters 
+    by a yet unrealized physical mechanism can reduce two parameters to
+    just a single one.  String theory models, for example, are badly in need of
     constraints like these, as there is not enough data to begin to 
     constrain the models.
 
-There either has to be enough observations to constraing the 
+There either has to be enough observations to constrain the 
 parameter space, or the models have simplifying assumptions to reduce the 
 effective parameter space.
 
@@ -58,8 +58,8 @@ effective parameter space.
 
 Usually, once heavy particles are produced in a collision, they travel away from
 the collision site for some time and then decay into lighter 
-particles\footnote{Unless there is a (theoretically motivated) symmetry to prevent it.}.   In
-particle phenomenology, studying the decay channels, \ie, the various
+particles (unless there is a theoretically-motivated symmetry to prevent this).   In
+particle phenomenology, studying the decay channels, *i.e.*, the various
 particles produced in the decay and their kinematic distribution, is 
 essential for determining how the produced particles will be detected
 in an experiment.  This tells an experimenter what they are looking for
@@ -67,7 +67,7 @@ in huge messy collision.  For example, if there are more electrons being
 produced than expected, then it could be a sign that an exotic heavy parent
 particle was created, even though the parent was never detected directly.
 This information that allows to infer the production of a heavy 
-particle is called a "signature."\\
+particle is called a "signature."
 
 ##### Predictions
 
@@ -91,7 +91,7 @@ visible universe is understood.  It is roughly broken down as
 \includegraphics[scale=.5]{figure__dark_matter_pie_chart.pdf}
 \end{figure}
 
-The last of these, the particle-physics dark matter problem, requires that the DM particle be massive enough to account for the relic dark matter abundance as well as cold enough to allow for structure formation on small scales in the early universe.\\
+The last of these, the particle-physics dark matter problem, requires that the DM particle be massive enough to account for the relic dark matter abundance as well as cold enough to allow for structure formation on small scales in the early universe.
  -->
 
 <!--more-->

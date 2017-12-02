@@ -6,8 +6,8 @@
   url: "/design/portfolio/"
   side: left
 
-- title: Particle Physics
-  url: "/design/portfolio/"
+- title: CV
+  url: "/design/portfolio/resume/"
   side: left
 
 # - title: "Templates"
