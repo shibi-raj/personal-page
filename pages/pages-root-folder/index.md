@@ -11,7 +11,7 @@ header:
   image_fullwidth: 
 widget1:
   title: "About me"
-  url: 'http://localhost:4000/portfolio/design/portfolio/'
+  url: 'https://shibi-raj.github.io/portfolio/design/portfolio/'
   <!-- image: tree/gh-pages/images/new.jpg -->
   <!-- image: widget-1-302x182.jpg  -->
   text: "Passionate about data science.  Former physicist, but physics is still
