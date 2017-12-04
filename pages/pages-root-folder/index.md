@@ -22,7 +22,7 @@ widget2:
 
 widget3:
   title: "Résumé"
-  url: 'https://shibi-raj.github.io/portfolio/resume/Resume.pdf' 
+  url: 'https://shibi-raj.github.io/portfolio/resume/Resume-Shibi-Rajagopalan-DS.pdf' 
   text: 'Check out my résumé.'
   video: ''
 
