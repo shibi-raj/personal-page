@@ -83,6 +83,7 @@
 
               {% if link.url contains 'http' %}
                 {% assign domain = '' %}
+                {% assign domain = '' %}
               {% elsif link.url == '#' %}
                 {% assign domain = '' %}
               {% else %}
@@ -94,7 +95,32 @@
 
             {% comment %}   If left side WITHOUT dropdown menu do   {% endcomment %}
             {% if link.dropdown == nil %}
-              <li{% if link.url == page.url %} class="active"{% elsif page.homepage == true and link.url == '/' %} class="active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
+<!--               <li{% if link.url == page.url %} class="active"{% elsif page.homepage == true and link.url == '/' %} class="active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
+              <li class="divider"></li>
+ -->
+              <li
+                {% if link.url == page.url %}
+                  class="active"
+                {% elsif page.homepage == true and link.url == '/' %}
+                  class="active"
+                {% endif %}
+              >
+                <a 
+                  {% if link.class %}
+                    class="{{link.class}}"
+                  {% endif %} 
+                  {% if link.url contains 'http' %}
+                    href="{{ link.url }}"
+                  {% else %}
+                    href="{{ domain }}{{ site.baseurl }}{{ link.url }}"
+                  {% endif %}
+                    
+                  {% if link.url contains 'http' %} 
+                    target="_blank"
+                  {% endif %}>
+                  {{ link.title | escape }}
+                </a>
+              </li>
               <li class="divider"></li>
 
             {% comment %}   If left side WITH dropdown menu do   {% endcomment %}

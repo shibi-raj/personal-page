@@ -6,8 +6,9 @@
   url: "/design/portfolio/"
   side: left
 
-- title: CV
-  url: "/design/portfolio/resume/"
+- title: Resume
+  # url: "/design/portfolio/resume/"
+  url: "https://shibi-raj.github.io/portfolio/resume/Resume-Shibi-Rajagopalan-DS.pdf"
   side: left
 
 - title: Repos
