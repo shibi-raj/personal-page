@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-- title: Particle Physics
-  url: "/design/portfolio/"
-  side: left
+# - title: Particle Physics
+#   url: "/design/portfolio/"
+#   side: left
 
 - title: Resume
   # url: "/design/portfolio/resume/"
