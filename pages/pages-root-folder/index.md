@@ -4,11 +4,11 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-#
+#  
 # header_unsplash_12.jpg
 layout: frontpage
 header:
-  image_fullwidth: 
+  image_fullwidth: header_lansverlan_cover_resize.jpg
 widget1:
   title: "About me"
   url: 'https://shibi-raj.github.io/portfolio/design/portfolio/'
