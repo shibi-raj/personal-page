@@ -96,6 +96,7 @@ format: frontpage
     </div><!-- /.row -->
 
 
+
     <div class="row">
         <div class="medium-6 columns">
             {% for post in site.posts limit:1 %}
@@ -111,9 +112,12 @@ format: frontpage
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
+            {% comment %}
             {% include list-posts entries='3' offset='1' %}
+            {% endcomment %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
+
 {% endunless %}
 
 
