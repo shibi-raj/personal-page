@@ -14,6 +14,7 @@ widget1:
   url: 'https://shibi-raj.github.io/portfolio/design/portfolio/'
   <!-- image: tree/gh-pages/images/new.jpg -->
   <!-- image: widget-1-302x182.jpg  -->
+  image: peering.jpg
   text: "I'm a data scientist with a background in physics research, and physics is still
   very much close to my heart.  Physics is a very rich and technical science with tons of data analysis, theory, and real-world applications and its research requires lots of creativity and resourcefulness.  My training in the field has given
   me the foundation for my critical-thinking toolset.  Please have a look around and feel free to contact me as I'm always looking hear the interesting things people have to say."
