@@ -11,7 +11,7 @@ for massively overlearninga subject.
 I also have some publications that are listed below.
 "
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "sm_lagrangian_on_blackboard_resize.jpg"
 permalink: "/teaching/"
 ---
 
