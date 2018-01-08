@@ -5,7 +5,7 @@ title: "Publications"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "cross_sections_amsb_resize.jpg"
 permalink: "/pub/"
 ---
 
