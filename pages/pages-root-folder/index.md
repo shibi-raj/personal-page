@@ -22,10 +22,16 @@ widget1:
 widget2:
 
 widget3:
-  title: "Résumé"
+  title: "Professional Links"
   url: 'https://shibi-raj.github.io/portfolio/resume/Resume-Shibi-Rajagopalan-DS.pdf' 
-  text: 'Check out my résumé.'
-  video: ''
+  text: '<ul style="list-style-type:none">
+           <li> <a href="http://www.linkedin.com/in/ShibiRajagopalan" style="color:cornflowerblue; font-size: 20px">Linked In</a> </li>
+           <li> <a href="http://www.upwork.com/o/profiles/users/_~01c4635d06b408f632/" style="color:cornflowerblue; font-size: 20px">Freelance on Upwork</a>  </li>
+           <li> <a href="/portfolio/teaching/" style="color:cornflowerblue; font-size: 20px">Teaching</a> </li>
+           <li> <a href="/portfolio/pub/" style="color:cornflowerblue; font-size: 20px">Publications</a> </li>
+           <li> <a href="https://shibi-raj.github.io/portfolio/resume/Resume-Shibi-Rajagopalan-DS.pdf" style="color:cornflowerblue; font-size: 20px">Resume</a>  </li>
+         </ul> '
+#  video: ''
 
 # widget3:
 #  title: ""
@@ -63,3 +69,6 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+[1]: {{ site.url }}{{ site.baseurl }}/teach_pubs/
+
