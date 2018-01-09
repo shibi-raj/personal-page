@@ -5,13 +5,15 @@ subheadline: "More about me"
 teaser: ""
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: ""
 ---
 
-Aside from physics and data, I have other strong interests.  Language is one of 
-them.  I moved to France in 2010, and I instantly came to love
-the language.  Before I got there, I did not know any French (moving to France
-without knowing French is not recommended). I started picking it up by reading, 
-then I slowly started conversing.  The French can be very precise with grammar,
-and through that I came to take pleasure in learning grammatical structure (even 
-thinking of the mathematical structure of language).  
+Aside from physics and data science, I am fascinated with languages and culture.
+I am Indian descent, and I have lived in France, Italy, and Bulgaria.  While
+living there, I learned how and how much other places have a respect for 
+their language.  I knew none of the languages when I 
+arrived in each of those countries and I came to appreciate the beauty in each 
+of those languages.  Additionally, I am always doing research, so I also became 
+fascinated by their grammatical and historical structure.  This is largely how I 
+came to be interested in natural language processing.
+
