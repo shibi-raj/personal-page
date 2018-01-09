@@ -5,8 +5,8 @@ title: "Teaching"
 subheadline: ""
 teaser: "Outside of research, teaching is one of my favorite hobbies.  
 It is a very rewarding practice that allows one to connect with students and to 
-constantly hone the skill of describing technical information.  It is also great 
-for massively overlearninga subject.
+constantly hone the skill of describing technical information.  It also has a
+benefit of allowing one to massively overlearn a subject they are interested in.
 
 I also have some publications that are listed below.
 "
